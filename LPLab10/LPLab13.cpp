@@ -9,7 +9,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	Log::LOG log;
 	int line = 1, col = 0;
 	FST::gek sw;
-	cout << "---- Тест getlog ----" << endl << endl;
 	try
 	{
 		Parm::PARM parm = Parm::getparm(argc, argv);

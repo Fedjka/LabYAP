@@ -1,5 +1,5 @@
 #include "IT.h"
-#include <string.h>
+#include <cstring>
 #include "stdafx.h"
 
 namespace IT

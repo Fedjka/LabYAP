@@ -11,6 +11,7 @@ namespace Log
 		tempLog.stream->open(logfile);
 
 		if (!tempLog.stream)
+
 		{
 			throw ERROR_THROW(112);
 		}

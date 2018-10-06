@@ -1,0 +1,68 @@
+Тест:без ошибок 
+---- Протокол ---- Дата: 04.10.18 15:15:16 ---- 
+---- Параметры ---- 
+ -in: D:\lAb13\LPLab10\Source.txt
+ -out: D:\lAb13\LPLab10\Source.txt.out
+ -log: D:\lAb13\LPLab10\Log.txt
+
+---------------Таблица лексем--------------------------------
+
+1  tfi(ti,ti)
+2  {
+3  dti;
+4  i=iv(ivi);
+5  ri;
+6  };
+7  tfi(ti,ti)
+8  {
+9  dtl;
+10 dtfi(ti,ti,ti);
+11 l=l(i,l,l)vi;
+12 rl;
+13 };
+14 m
+15 {
+16 dti;
+17 dti;
+18 dti;
+19 dti;
+20 dti;
+21 dti;
+22 dti(ti);
+23 i=l;
+24 i=l;
+25 i=l;
+26 i=l;
+27 i=l(i,i);
+28 i=l(i,i);
+29 pll;
+30 pi;
+31 pi;
+32 pi(i);
+33 rl;
+34 };
+---------------Таблица идентификаторов-------------------------------
+Имя идент Обл. видим.  Тип даных Тип идент. № табл. лекс.  Значение
+fi        All          integer   Function   0              no
+x         fi           integer   Parameter  1              0
+y         fi           integer   Parameter  2              0
+z         fi           integer   Variable   3              0
+fs        All          string    Function   4              no
+a         fs           string    Parameter  5              no
+b         fs           string    Parameter  6              no
+subs      All          string    Function   7              no
+a         subs         string    Parameter  8              no
+p         subs         integer   Parameter  9              0
+n         subs         integer   Parameter  10             0
+x         main         integer   Variable   11             1
+y         main         integer   Variable   12             5
+z         main         integer   Variable   13             0
+sa        main         string    Variable   14             ‘1234567890’
+sb        main         string    Variable   15             ‘1234567890’
+sc        main         string    Variable   16             fs
+strl      main         integer   Variable   17             0
+p         main         string    Variable   18             no
+---- Исходные данные ---- 
+Всего символов: 594
+Всего строк: 35
+Пропущено: 0

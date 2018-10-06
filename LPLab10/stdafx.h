@@ -9,13 +9,13 @@
 
 #include "targetver.h"
 
-#include <stdio.h>
-#include <tchar.h>
+#include "stdafx.h"
+#include <cstdio>
+#include "tchar.h"
 #include <iostream>
 #include <locale>
 #include <cwchar>
-#include <string.h>
-
+#include <cstring>
 #include "Error.h"
 #include "Parm.h"
 #include "Log.h"

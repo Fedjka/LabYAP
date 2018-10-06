@@ -42,7 +42,7 @@ namespace LexAnalysis
 		int id = 0, litIndex;
 		char operation = LEX_ZERO_OPERATION;
 		char visibility[ID_MAXSIZE], prevFun[ID_MAXSIZE];
-		for (int i = 0; i < inStruct.tokensCount; i++)
+		for (int i = 0; i < inStruct.tokensCount; i++)//avtomat
 		{
 			for (int j = 0; j < N_GRAPHS; j++)
 			{
